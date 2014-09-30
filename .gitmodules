@@ -1,0 +1,18 @@
+[submodule "donnees-pour-les-ateliers"]
+	path = donnees-pour-les-ateliers
+	url = git@github.com:Labx/donnees-pour-les-ateliers.git
+[submodule "atelier-preparer-un-environnement-collaboratif-tmux"]
+	path = atelier-preparer-un-environnement-collaboratif-tmux
+	url = git@github.com:Labx/atelier-preparer-un-environnement-collaboratif-tmux.git
+[submodule "atelier-tmux"]
+	path = atelier-tmux
+	url = git@github.com:Labx/atelier-tmux.git
+[submodule "atelier-lire-l-aide"]
+	path = atelier-lire-l-aide
+	url = git@github.com:Labx/atelier-lire-l-aide.git
+[submodule "atelier-autocompletion"]
+	path = atelier-autocompletion
+	url = git@github.com:Labx/atelier-autocompletion.git
+[submodule "atelier-arborescence-pstopdf"]
+	path = atelier-arborescence-pstopdf
+	url = git@github.com:Labx/atelier-arborescence-pstopdf.git
