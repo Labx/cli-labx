@@ -1,0 +1,17 @@
+# Création du serveur cli.labx.fr
+## sécurité 
+interdiction de la connection en root
+autorisation de la connection par clé SSH
+installation de sudo 
+ajout au groupe sudo 
+## Création de site web
+### jekyll 
+#### installation
+* nodejs
+* sudo gem install -n /opt/bin jekyll
+* ajout de /opt/bin dans le PATH
+#### utilisation 
+* Création du projet 
+** jekyll new prj
+* test
+** jekyll serve -H 0.0.0.0 -P 80
