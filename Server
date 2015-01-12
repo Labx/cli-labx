@@ -12,7 +12,9 @@ ajout au groupe sudo
 #### installation
 * nodejs
 * sudo gem install -n /opt/bin jekyll
+** l'option -n permet d'installer les binaires dans un repértoire spécifique 
 * ajout de /opt/bin dans le PATH
+** dans /etc/bash.bashrc
 #### utilisation 
 * Création du projet 
 ** jekyll new prj
