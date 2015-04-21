@@ -12,7 +12,7 @@ Documents et projets des [ateliers CLI organisés au LabX](https://www.labx.fr/)
     * débutant: **mercredi (19h→20h)**,
     * avancés: chaque **mardi (20h→22h)**.
 *  Tarif : libre ;
-* Liste de diffusion : ateliers_cli@labx.fr ;
+* Liste de diffusion : ateliers_cli[AT]labx.fr ;
 * Inscription à la liste : http://labx.fr/mailman/listinfo/ateliers_cli.
 
 ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍ ╍
